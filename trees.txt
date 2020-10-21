@@ -1,2 +1,4 @@
 oak
 pine
+maple
+palm
